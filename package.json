@@ -1,11 +1,11 @@
 {
-  "name": "nnhjs.card",
+  "name": "markehvn",
   "version": "1.0.0",
-  "description": "nnhjs's terminal business card",
+  "description": "markehvn' terminal business card",
   "main": "bin.js",
   "type": "module",
   "bin": {
-    "nnhjs": "./bin.js"
+    "markehvn": "./bin.js"
   },
   "scripts": {
     "start": "node bin.js"
@@ -15,7 +15,7 @@
     "business-card",
     "npx"
   ],
-  "author": "Hung Nguyen <hi@nghiahung.dev>",
+  "author": "Hung Nguyen <hung.nguyen2@employmenthero.com>",
   "license": "MIT",
   "packageManager": "pnpm@10.9.0",
   "dependencies": {
